@@ -1,5 +1,15 @@
 .photolink img{
     width:183px;
-    position: relative;
-    top:-190px;
+    
+    
+}
+.photolink{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#合照{
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
 }
